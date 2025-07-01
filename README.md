@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 <p align="center">
 	<a href="mailto:tobiasorozco31@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/tob%C3%ADas-nicolas-orozco-49a64019a/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/tobias.orozc0/profilecard/?igsh=MTh6cnI5bTFscm55cw=="><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 
 	
 </p>
