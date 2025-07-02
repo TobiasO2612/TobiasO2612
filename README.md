@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data+Engineering+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Estudiante de Ciencia de Datos e Inteligencia Artificial, y también de Ingeniería de Datos. Fanatico del mate y pasionado por la lectura y el aprendizaje continuo, especialmente en el mundo IT..</h4>
+<h4 align="center">Estudiante de Ciencia de Datos e Inteligencia Artificial. Fanatico del mate y pasionado por la lectura y el aprendizaje continuo, especialmente en el mundo IT..</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
