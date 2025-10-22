@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hola! Mi nombre es Tobias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data+Engineering+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Data+Engineering+Student;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Estudiante de Ciencia de Datos e Inteligencia Artificial. Fanatico del mate y pasionado por la lectura y el aprendizaje continuo, especialmente en el mundo IT..</h4>
