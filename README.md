@@ -15,7 +15,7 @@
 
 ### Sobre mí
 
-Founder y Full Stack Developer. Lo que más me gusta es **arrancar proyectos desde cero** y todo lo que rodea al **mundo startup**. Tomar mate y programar es algo que hago incluso en mi tiempo libre.
+Founder y Full Stack Developer. Lo que más me gusta es empezar proyectos desde cero** y todo lo que rodea al **mundo startup**. Tomar mate y programar es algo que hago incluso en mi tiempo libre.
 
 Me encanta **trabajar en equipo** y aportar en cada proyecto. Fuera de la compu: viajar, ir a eventos, charlas y coworks, y conectar con gente emprendedora del mundo tech.
 
